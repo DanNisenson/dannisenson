@@ -13,7 +13,7 @@ Some of my biggest influences through the years have been:
 
 - 🐒 Robert Sapolsky's Stanford [lectures](https://www.youtube.com/watch?v=NNnIGh9g6fA&list=PL150326949691B199) on Human Behavioral Biology.
 - ✨ Rick Rubin's approach to creativity and maximizing outcomes for abstract processes.
-- 💽 The impact of how music recording technology (and signal processing in general) shaped the way of generating and consuming music.
+- 💽 The impact of how recording technology (and signal processing in general) shaped the way we think and experience media.
 - 📚 They're so many and so interconnected I should probably start a blog 
 
 If you want to get in contact you can write me on:

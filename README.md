@@ -3,11 +3,10 @@
 ### My name is [Dan Nisenson](https://www.linkedin.com/in/dan-nisenson/)(`He/Him`) and I make projects become real through code
 ![CodeWars kyu](https://www.codewars.com/users/ChinoMoriarty/badges/micro)
 
-I'm currently working on my final project for [The Bridge](https://www.thebridge.tech/) with the great [Miguel Jimenez](https://www.linkedin.com/in/miguelflg13/) as Lead Instructor.
-
+I'm currently developing web portfolio pages as a freelancer and taking Harvard's Computer Science 50 online course.
 I **love** learning about science, human behaviour, the brain and how it translates to our everyday life through technology. 
 
-Coming from a music production background I find coding such a blast. Both are at the intersection between tech, team dynamics and creativity. 
+Coming from a music production background I find coding such a blast. Both are at the intersection of tech, team dynamics and creativity. 
 
 Some of my biggest influences through the years have been:
 
